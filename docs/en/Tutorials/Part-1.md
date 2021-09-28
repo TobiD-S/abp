@@ -100,7 +100,7 @@ namespace Acme.BookStore.Books
         Adventure,
         Biography,
         Dystopia,
-        Fantastic,
+        Fantasy,
         Horror,
         Science,
         ScienceFiction,
