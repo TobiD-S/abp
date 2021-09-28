@@ -139,7 +139,7 @@ Open the `en.json` (*the English translations*) file and change the content as b
     "Enum:BookType:1": "Adventure",
     "Enum:BookType:2": "Biography",
     "Enum:BookType:3": "Dystopia",
-    "Enum:BookType:4": "Fantastic",
+    "Enum:BookType:4": "Fantasy",
     "Enum:BookType:5": "Horror",
     "Enum:BookType:6": "Science",
     "Enum:BookType:7": "Science fiction",
